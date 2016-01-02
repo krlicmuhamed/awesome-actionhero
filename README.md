@@ -69,6 +69,3 @@ A curated list of amazingly awesome **actionhero.js 12.x.x** plugins, resources 
 
 # Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-## Credits
-awesome-cakephp has been created by [l0oky](https://github.com/l0oky) and is currently maintained by the actionhero community. Special thanks goes to all the [contributors](https://github.com/l0oky/awesome-actionhero/graphs/contributors), they were a big help too.
