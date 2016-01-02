@@ -14,12 +14,12 @@
 - [Examples](#examples)
 	- [Demo](#demo)
 - [Resources](#resources)
-	- [Help](#help)
 	- [actionhero Books and Articles](#actionhero-books-and-articles)
 	- [actionhero Videos](#actionhero-videos)
 	- [actionhero Tutorials](#actionhero-tutorials)
 	- [actionhero Reading and Listening](#actionhero-reading-and-listening)
 	- [actionhero Internals Reading](#actionhero-internals-reading)
+	- [Help](#help)
 - [Conferences](#conferences)
 - [Contributing](#contributing)
 
@@ -45,12 +45,6 @@
 
 # Resources
 
-## Help
-*Where to get help.*
-
-- [Gitter Chat](https://gitter.im/evantahler/actionhero) - Live chat/discussion with other devs and core devs.
-- [stackoverflow.com/questions/tagged/actionhero](http://stackoverflow.com/questions/tagged/actionhero) - This is for specific questions, ideally along with some example code.
-
 ## actionhero Books and Articles
 *Fantastic actionhero-related (e)books and other reading material.*
 
@@ -65,6 +59,12 @@
 
 ## actionhero Internals Reading
 *Reading materials related to the actionhero internals and decisions.*
+
+## Help
+*Where to get help.*
+
+- [Gitter Chat](https://gitter.im/evantahler/actionhero) - Live chat/discussion with other devs and core devs.
+- [stackoverflow.com/questions/tagged/actionhero](http://stackoverflow.com/questions/tagged/actionhero) - This is for specific questions, ideally along with some example code.
 
 # Conferences
 *None so far.* [Help us arrange one.](https://gitter.im/evantahler/actionhero)
