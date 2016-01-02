@@ -16,7 +16,7 @@ A curated list of amazingly awesome **actionhero.js 12.x.x** plugins, resources 
 - [Examples](#examples)
 	- [Demo](#demo)
 - [Resources](#resources)
-  - [Chat](#chat)
+	- [Chat](#chat)
 	- [Help](#help)
 	- [actionhero Books and Articles](#actionhero-books-and-articles)
 	- [actionhero Videos](#actionhero-videos)
