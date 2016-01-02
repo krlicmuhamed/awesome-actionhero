@@ -1,6 +1,6 @@
 # Awesome actionhero.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<p align="center"><img src="https://raw.github.com/evantahler/actionhero/master/public/logo/actionhero.png" height="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/l0oky/awesome-actionhero/master/coat.png" height="300"/></p>
 
 > A curated list of amazingly awesome **actionhero.js 12.x.x** plugins, resources and shiny things.
 
