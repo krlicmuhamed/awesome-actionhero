@@ -9,6 +9,7 @@
 - [Plugins](#plugins)
 	- [Authentication and Authorization](#authentication-and-authorization)
 	- [Miscellaneous](#miscellaneous)
+	- [Integrations](#integrations)
 	- [ORM and Datamapping](#orm-and-datamapping)
 	- [Security](#security)
 - [Examples](#examples)
@@ -30,7 +31,10 @@
 *Plugins for implementing authentication and authorization.*
 
 ## Miscellaneous
-*Misc plugins and libraries.*
+*Misc plugins for actionhero.*
+
+## Integrations
+*Third party node.js modules as plugins.*
 
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
