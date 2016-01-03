@@ -11,6 +11,6 @@ Please ensure your pull request adheres to the following guidelines:
 * Check your spelling and grammar.
 * Make sure your text editor is set to remove trailing whitespace.
 * Please keep the lists in alphabetical order.
-* Name plugins as `PLUGINNAME plugin`.
+* Name plugins as `ah-PLUGINNAME-plugin`.
 
 Thank you for your suggestions!
