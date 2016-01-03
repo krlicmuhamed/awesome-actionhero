@@ -7,6 +7,7 @@
 ## Table of Contents
 
 - [Plugins](#plugins)
+	- [API Features](#api-features)
 	- [Authentication and Authorization](#authentication-and-authorization)
 	- [Miscellaneous](#miscellaneous)
 	- [Integrations](#integrations)
@@ -26,6 +27,9 @@
 
 
 # Plugins
+
+## API Features
+*Plugins enhancing API control and other features.*
 
 ## Authentication and Authorization
 *Plugins for implementing authentication and authorization.*
