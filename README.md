@@ -32,6 +32,7 @@
 
 ## Miscellaneous
 *Misc plugins for actionhero.*
+- [ah-stats-plugin](https://github.com/evantahler/ah-stats-plugin) - collection of methods that allow you to store arbitrary statistics about your server.
 
 ## Integrations
 *Third party node.js modules as plugins.*
