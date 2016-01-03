@@ -32,11 +32,10 @@
 
 ## Miscellaneous
 *Misc plugins for actionhero.*
-- [ah-airbrake-plugin](https://github.com/evantahler/ah-airbrake-plugin) - actionhero client for airbrakeapp.com, capture and track your apps exceptions.
-
 
 ## Integrations
 *Third party node.js modules as plugins.*
+- [ah-airbrake-plugin](https://github.com/evantahler/ah-airbrake-plugin) - actionhero client for airbrakeapp.com, capture and track your apps exceptions.
 
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
