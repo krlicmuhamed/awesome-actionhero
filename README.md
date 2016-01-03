@@ -38,6 +38,7 @@
 *Third party node.js modules as plugins.*
 - [ah-airbrake-plugin](https://github.com/evantahler/ah-airbrake-plugin) - actionhero client for airbrakeapp.com, capture and track your apps exceptions.
 - [ah-newrelic-plugin](https://github.com/evantahler/ah-newrelic-plugin) - actionhero client for newrelic.com, pinpoint your apps performance issues.
+- [ah-nodemailer-plugin](https://github.com/panjiesw/ah-nodemailer-plugin) - send emails using nodemailer in actionhero, has integrated mail template capability.
 
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
