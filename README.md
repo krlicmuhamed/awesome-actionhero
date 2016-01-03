@@ -32,6 +32,8 @@
 
 ## Miscellaneous
 *Misc plugins for actionhero.*
+- [ah-airbrake-plugin](https://github.com/evantahler/ah-airbrake-plugin) - actionhero client for airbrakeapp.com, capture and track your apps exceptions.
+
 
 ## Integrations
 *Third party node.js modules as plugins.*
