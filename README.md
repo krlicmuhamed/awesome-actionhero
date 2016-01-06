@@ -75,6 +75,8 @@
 
 ## actionhero Internals Reading
 *Reading materials related to the actionhero internals and decisions.*
+- [Support for plugin auto-registration](https://github.com/evantahler/actionhero/issues/727) - Discussion for a new plugin related feature.
+- [Support for Nested Plugins](https://github.com/evantahler/actionhero/issues/727) - Discussion for a nested plugins support.
 
 ## Help
 *Where to get help.*
