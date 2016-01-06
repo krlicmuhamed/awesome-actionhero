@@ -33,6 +33,7 @@
 
 ## Authentication and Authorization
 *Plugins for implementing authentication and authorization.*
+- [ah-jwtauth2-plugin](https://github.com/ifavo/ah-jwtauth-plugin) - This useful plugin enables Auth0 jsonwebtoken to allow token authentication of actions.
 
 ## Miscellaneous
 *Misc plugins for actionhero.*
@@ -47,8 +48,6 @@
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
 - [ah-sequelize-plugin](https://github.com/evantahler/ah-sequelize-plugin) - This plugin implements sequelize ORM for actionhero!
-## Security
-*Plugins and information around security.*
 
 # Examples
 
