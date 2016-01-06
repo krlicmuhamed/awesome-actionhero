@@ -48,12 +48,14 @@
 *Plugins that implement object-relational mapping or data-mapping techniques.*
 
 ## Security
-*Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
+*Plugins and information around security.*
 
 # Examples
 
 ## Demo
 *Code example (demo) applications and tools.*
+- [Angular+Actionhero](https://github.com/evantahler/actionhero-angular-bootstrap-cors-csrf) - Actionhero + Angular + Bootstrap + CORS + CSRF Demo Site
+- [EarlyAgain](https://github.com/evantahler/earlyagain) - Anonymous chat application.
 
 # Resources
 
