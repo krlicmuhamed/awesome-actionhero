@@ -46,7 +46,7 @@
 
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
-
+- [ah-sequelize-plugin](https://github.com/evantahler/ah-sequelize-plugin) - This plugin implements sequelize ORM for actionhero!
 ## Security
 *Plugins and information around security.*
 
