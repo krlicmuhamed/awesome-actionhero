@@ -70,7 +70,7 @@
 - [Official tutorial](https://github.com/evantahler/actionhero-tutorial) - This tutorial will guide you through the basics of actionhero.js!
 ## actionhero Reading and Listening
 *Documentation and actionhero-releated reading and listening materials.*
-
+- [Official blog](http://blog.evantahler.com) - The one who started it all! Evan Tahler has a blog right there.
 ## actionhero Internals Reading
 *Reading materials related to the actionhero internals and decisions.*
 
