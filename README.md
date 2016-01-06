@@ -67,7 +67,7 @@
 
 ## actionhero Tutorials
 *Must-do tutorials.*
-
+- [Official tutorial](https://github.com/evantahler/actionhero-tutorial) - This tutorial will guide you through the basics of actionhero.js!
 ## actionhero Reading and Listening
 *Documentation and actionhero-releated reading and listening materials.*
 
