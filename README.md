@@ -9,7 +9,7 @@
 
 > A curated list of amazingly awesome **actionhero.js 12.x.x** plugins, resources and shiny things.
 
-
+<hr/>
 
 ## Table of Contents
 
