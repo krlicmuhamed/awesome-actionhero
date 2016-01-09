@@ -62,6 +62,7 @@
 
 ## actionhero Books and Articles
 *Fantastic actionhero-related (e)books and other reading material.*
+- [Learn more about actionhero](http://www.actionherojs.com/learn-more/) - Official learn more guide!
 
 ## actionhero Videos
 *Fantastic actionhero-related videos.*
