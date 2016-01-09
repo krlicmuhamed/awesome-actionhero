@@ -66,6 +66,7 @@
 
 ## actionhero Videos
 *Fantastic actionhero-related videos.*
+- [Mark Tuckers actionhero.js Series](https://www.youtube.com/watch?v=cxuK5QlavOw) - Tutorial videos to get you started by Mark Tucker.
 
 ## actionhero Tutorials
 *Must-do tutorials.*
