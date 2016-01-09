@@ -2,7 +2,14 @@
 
 <p align="center"><img src="https://raw.github.com/evantahler/actionhero/master/public/logo/actionhero.png" height="300"/></p>
 
+<p align="center">
+	The Reusable, Scalable, and Quick node.js API Server!
+</p>
+
+
 > A curated list of amazingly awesome **actionhero.js 12.x.x** plugins, resources and shiny things.
+
+
 
 ## Table of Contents
 
@@ -24,6 +31,7 @@
 	- [Help](#help)
 - [Conferences](#conferences)
 - [Contributing](#contributing)
+
 
 
 # Plugins
@@ -51,12 +59,16 @@
 *Plugins that implement object-relational mapping or data-mapping techniques.*
 - [ah-sequelize-plugin](https://github.com/evantahler/ah-sequelize-plugin) - This plugin implements sequelize ORM for actionhero!
 
+
+
 # Examples
 
 ## Demo
 *Code example (demo) applications and tools.*
 - [Angular+Actionhero](https://github.com/evantahler/actionhero-angular-bootstrap-cors-csrf) - Actionhero + Angular + Bootstrap + CORS + CSRF Demo Site
 - [EarlyAgain](https://github.com/evantahler/earlyagain) - Anonymous chat application.
+
+
 
 # Resources
 
@@ -81,14 +93,20 @@
 - [Support for plugin auto-registration](https://github.com/evantahler/actionhero/issues/727) - Discussion for a new plugin related feature.
 - [Support for Nested Plugins](https://github.com/evantahler/actionhero/issues/727) - Discussion for a nested plugins support.
 
+
+
 ## Help
 *Where to get help.*
 
 - [Gitter Chat](https://gitter.im/evantahler/actionhero) - Live chat/discussion with other devs and core devs.
 - [stackoverflow.com/questions/tagged/actionhero](http://stackoverflow.com/questions/tagged/actionhero) - This is for specific questions, ideally along with some example code.
 
+
+
 # Conferences
 *None so far.* [Help us arrange one.](https://gitter.im/evantahler/actionhero)
+
+
 
 # Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
