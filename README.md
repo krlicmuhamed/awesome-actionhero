@@ -34,6 +34,7 @@
 ## Authentication and Authorization
 *Plugins for implementing authentication and authorization.*
 - [ah-jwtauth2-plugin](https://github.com/ifavo/ah-jwtauth-plugin) - This useful plugin is using Auth0 jsonwebtoken to allow token authentication of actions.
+- [ah-passport-plugin](https://github.com/neilstuartcraig/ah-passport-plugin) - Passport plugin for actionhero.
 
 ## Miscellaneous
 *Misc plugins for actionhero.*
