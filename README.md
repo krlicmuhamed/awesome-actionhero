@@ -30,6 +30,7 @@
 
 ## API Features
 *Plugins enhancing API control and other features.*
+- [ah-ratelimit-plugin](https://github.com/innerdvations/ah-ratelimit-plugin) - Limit the amount of action requests.
 
 ## Authentication and Authorization
 *Plugins for implementing authentication and authorization.*
