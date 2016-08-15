@@ -35,25 +35,27 @@
 
 
 # Plugins
+One tiny note when installing plugins, remember to `link` them to your projects to enable them - use the following command 
+`npm run actionhero link -- --name PLUGINNAME`.
 
 ## API Features
 *Plugins enhancing API control and other features.*
-- [ah-ratelimit-plugin](https://github.com/innerdvations/ah-ratelimit-plugin) - Limit the amount of action requests.
+- ~~[ah-ratelimit-plugin](https://github.com/innerdvations/ah-ratelimit-plugin) - Limit the amount of action requests.~~
 
 ## Authentication and Authorization
 *Plugins for implementing authentication and authorization.*
-- [ah-jwtauth2-plugin](https://github.com/ifavo/ah-jwtauth-plugin) - This useful plugin is using Auth0 jsonwebtoken to allow token authentication of actions.
-- [ah-passport-plugin](https://github.com/neilstuartcraig/ah-passport-plugin) - Passport plugin for ActionHero.
+- ~~[ah-jwtauth2-plugin](https://github.com/ifavo/ah-jwtauth-plugin) - This useful plugin is using Auth0 jsonwebtoken to allow token authentication of actions.~~
+- ~~[ah-passport-plugin](https://github.com/neilstuartcraig/ah-passport-plugin) - Passport plugin for ActionHero.~~
 
 ## Miscellaneous
 *Misc plugins for ActionHero.*
-- [ah-stats-plugin](https://github.com/evantahler/ah-stats-plugin) - collection of methods that allow you to store arbitrary statistics about your server.
+- ~~[ah-stats-plugin](https://github.com/evantahler/ah-stats-plugin) - collection of methods that allow you to store arbitrary statistics about your server.~~
 
 ## Integrations
 *Third party node.js modules as plugins.*
-- [ah-airbrake-plugin](https://github.com/evantahler/ah-airbrake-plugin) - ActionHero client for airbrakeapp.com, capture and track your apps exceptions.
-- [ah-newrelic-plugin](https://github.com/evantahler/ah-newrelic-plugin) - ActionHero client for newrelic.com, pinpoint your apps performance issues.
-- [ah-nodemailer-plugin](https://github.com/panjiesw/ah-nodemailer-plugin) - send emails using nodemailer in ActionHero, has integrated mail template capability.
+- ~~[ah-airbrake-plugin](https://github.com/evantahler/ah-airbrake-plugin) - ActionHero client for airbrakeapp.com, capture and track your apps exceptions.~~
+- ~~[ah-newrelic-plugin](https://github.com/evantahler/ah-newrelic-plugin) - ActionHero client for newrelic.com, pinpoint your apps performance issues.~~
+- ~~[ah-nodemailer-plugin](https://github.com/panjiesw/ah-nodemailer-plugin) - send emails using nodemailer in ActionHero, has integrated mail template capability.~~
 
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
