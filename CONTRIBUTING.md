@@ -12,5 +12,6 @@ Please ensure your pull request adheres to the following guidelines:
 * Make sure your text editor is set to remove trailing whitespace.
 * Please keep the lists in alphabetical order.
 * Name plugins as `ah-PLUGINNAME`.
+* Try spelling `ActionHero` like this wherever possible.
 
 Thank you for your suggestions!
