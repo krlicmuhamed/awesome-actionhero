@@ -92,7 +92,6 @@ One tiny note when installing plugins, remember to `link` them to your projects 
 
 ## Internals Reading
 *Reading materials related to the ActionHero internals and decisions.*
-- [Support for plugin auto-registration](https://github.com/evantahler/actionhero/issues/727) - Discussion for a new plugin related feature.
 - [Support for Nested Plugins](https://github.com/evantahler/actionhero/issues/727) - Discussion for a nested plugins support.
 
 
