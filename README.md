@@ -88,7 +88,7 @@ One tiny note when installing plugins, remember to `link` them to your projects 
 
 ## Reading and Listening
 *Documentation and ActionHero-releated reading and listening materials.*
-- [Official blog](http://blog.evantahler.com) - The one who started it all! Evan Tahler has a blog right there.
+- [Official blog](https://blog.evantahler.com/tagged/actionherojs) - The one who started it all! Evan Tahler has a blog right there.
 
 ## Internals Reading
 *Reading materials related to the ActionHero internals and decisions.*
@@ -99,13 +99,13 @@ One tiny note when installing plugins, remember to `link` them to your projects 
 ## Help
 *Where to get help.*
 
-- [Gitter Chat](https://gitter.im/evantahler/actionhero) - Live chat/discussion with other devs and core devs.
+- [Slack Chat](http://slack.actionherojs.com) - Live chat/discussion with other devs and core devs.
 - [stackoverflow.com/questions/tagged/actionhero](http://stackoverflow.com/questions/tagged/actionhero) - This is for specific questions, ideally along with some example code.
 
 
 
 # Conferences
-*None so far.* [Help us arrange one.](https://gitter.im/evantahler/actionhero)
+*None so far.* [Help us arrange one.](http://slack.actionherojs.com)
 
 
 
