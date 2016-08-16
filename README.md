@@ -41,7 +41,7 @@ One tiny note when installing plugins, remember to `link` them to your projects 
 ## API Features
 *Plugins enhancing API control and other features.*
 - ~~[ah-ratelimit-plugin](https://github.com/innerdvations/ah-ratelimit-plugin) - Limit the amount of action requests.~~
-
+- [ah-swagger-plugin](https://github.com/supamii/ah-swagger-plugin) Swagger UI Documentation
 ## Authentication and Authorization
 *Plugins for implementing authentication and authorization.*
 - ~~[ah-jwtauth2-plugin](https://github.com/ifavo/ah-jwtauth-plugin) - This useful plugin is using Auth0 jsonwebtoken to allow token authentication of actions.~~
@@ -60,7 +60,8 @@ One tiny note when installing plugins, remember to `link` them to your projects 
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
 - [ah-sequelize-plugin](https://github.com/evantahler/ah-sequelize-plugin) - This plugin implements sequelize ORM for ActionHero!
-
+- ~~[ah-mongodb-plugin](https://github.com/eduardogch/ah-mongodb-plugin) MongoDB + Mongoose~~
+- ~~[ah-rethinkdb-plugin](https://github.com/eduardogch/ah-rethinkdb-plugin) RethinkDB + Mongoose~~
 
 
 # Examples
