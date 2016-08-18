@@ -60,6 +60,7 @@ One tiny note when installing plugins, remember to `link` them to your projects 
 ## ORM and Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
 - [ah-sequelize-plugin](https://github.com/evantahler/ah-sequelize-plugin) - This plugin implements sequelize ORM for ActionHero!
+- [ah-elasticsearch-orm](https://github.com/messagebot/ah-elasticsearch-orm) - Elasticsearch for ActionHero!
 - ~~[ah-mongodb-plugin](https://github.com/eduardogch/ah-mongodb-plugin) MongoDB + Mongoose~~
 - ~~[ah-rethinkdb-plugin](https://github.com/eduardogch/ah-rethinkdb-plugin) RethinkDB + Mongoose~~
 
