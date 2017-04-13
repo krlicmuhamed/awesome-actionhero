@@ -71,6 +71,7 @@ One tiny note when installing plugins, remember to `link` them to your projects 
 *Code example (demo) applications and tools.*
 - [Angular+ActionHero](https://github.com/evantahler/actionhero-angular-bootstrap-cors-csrf) - ActionHero + Angular + Bootstrap + CORS + CSRF Demo Site
 - [EarlyAgain](https://github.com/evantahler/earlyagain) - Anonymous chat application.
+- [Electron ActionHero](https://github.com/semiosis/electron-actionhero) - Bundle ActionHero inside an Electron app.
 
 
 
